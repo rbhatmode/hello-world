@@ -1,0 +1,16 @@
+{
+    "name": "rbhatmode/hello-world",
+    "description": "test hello world",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {"rbhatmode\\hello-world\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "rbhatmode",
+            "email": "rbhatmode@xento.com"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 <?php
 
-namespace rbhatmode\hello-world;
+namespace rbhatmode\CHelloWorld;
 
 class CHelloWorld
 {
